@@ -70,3 +70,6 @@ Once everything is ready, you can launch the application by running:
 streamlit  run  main.py
 
 ```
+### How to use :
+1. Enter your Hugging face account's email and password (you can create one [here](https://huggingface.co/join))
+2. Ask any question and the chatbot will automatically response.
